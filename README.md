@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parky3651
 - 👀 I’m interested in Digital Marketing 
 - 🌱 I’m currently learning PPC
-- 💞️ I’m looking to collaborate on Funel Form builds 
+- 💞️ I’m looking to collaborate on Funnel Form builds 
 - 📫 How to reach me tom@adthority.co.uk
 
 <!---
